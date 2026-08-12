@@ -2,7 +2,7 @@
 
 import socket
 
-TCP_IP = "192.168.1.242"
+TCP_IP = "192.168.1.242" #your ip or localhost to test
 TCP_PORT = 6996
 BUFFER_SIZE = 100 #Buffer Size of Data listening
 

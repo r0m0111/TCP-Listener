@@ -2,6 +2,12 @@
 
 A simple Python TCP server that listens for incoming connections, receives data from a client, prints the received data, and sends the same data back to the client (echo server).
 
+
+## RESULT
+<img width="1206" height="707" alt="test" src="https://github.com/user-attachments/assets/8f0d9a31-6106-41ee-8fb0-3f6919b5b928" />
+
+
+
 ## Requirements
 
 * Python 3.x
